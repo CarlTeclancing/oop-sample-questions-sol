@@ -1,0 +1,70 @@
+III.  OBJECT ORIENTED PROGRAMING (25 MARKS)
+Consider the following scenario for a school management system.
+Assume there are multiple schools, each with its own set of students, teachers, and classes.
+Implement a C++ program that demonstrates the creation of objects for the `School` and HighSchool` classes.
+Include functionality to add students, assign teachers, and display information about each school and high school.
+
+III. OBJECT-ORIENTED PROGRAMMING (25 MARKS)
+A company named "Chop ASAP" maintains a database of employees. Design a base class Employee with attributes like employee ID, name, department, and salary. Write a program that:
+Allows the addition of new employees.
+Updates the department or salary of an employee.
+Displays details of all employees.
+Calculates the total salary expenditure.
+Create a class-based program for a library management system. Define a base class LibraryItem with attributes like item ID, title, author, and category (e.g., book, magazine, DVD). Your program should:
+Enable adding new items to the library.
+Allow updating the quantity of an item.
+Provide a function to display all items in the library.
+Include a method to calculate the total number of items in stock.
+Define a class hierarchy for a hotel reservation system. Create a base class Reservation with attributes like reservation ID, guest name, room type, and number of nights. Implement a program that:
+Adds new reservations.
+Updates the room type or number of nights for a reservation.
+Displays all reservations.
+Calculates the total revenue generated based on room rate.
+III.  OBJECT ORIENTED PROGRAMING (25 MARKS)
+1. Consider the following scenario for an inventory management system for the company "Dov": The company deals with various types of products, including electronics, clothing, and furniture. Define a base class named `InventoryItem` with attributes such as item ID, name, quantity, and price. Include functionality to add new items, update quantities, display inventory, and calculate the total value of the inventory.
+
+Ensure that your practical implementation reflects the principles of object-oriented programming and showcases the benefits of using classes and objects for managing diverse inventory items within the Dov company.
+
+Part C: Object-Oriented Programming (25 marks)
+1. Explain the concept of encapsulation and how it's implemented in object-oriented programming.
+2. Discuss the principles of inheritance and polymorphism in object-oriented programming, highlighting their importance.
+3. Implement a stack data structure in a programming language of your choice and demonstrate its usage with relevant operations.
+4. Describe the process of binary search and analyze its time complexity.
+5. Develop an algorithm to sort an array of integers using the merge sort technique and explain its efficiency.
+
+
+Part C: Object-Oriented Programming (25 marks)
+Explain the fundamental principles of OOP and how they are applied in C++. Discuss concepts such as encapsulation, inheritance, and polymorphism. (5marks)
+Define a class named `School` with appropriate attributes and methods. Provide examples of how objects of this class could represent real-world schools.(5marks)
+Create a subclass named `HighSchool` that inherits from the `School` class. Include additional attributes and methods specific to high schools.(5marks)
+
+Object-Oriented Programming (25 marks)
+Explain the fundamental principles of OOP and how they are applied in C++. Discuss concepts such as encapsulation, inheritance, and polymorphism. (5marks)
+Define a class named `School` with appropriate attributes and methods. Provide examples of how objects of this class could represent real-world schools.(5marks)
+Create a subclass named `HighSchool` that inherits from the `School` class. Include additional attributes and methods specific to high schools.(5marks)
+
+Consider the following scenario for a school management system: (10 marks)
+Assume there are multiple schools, each with its own set of students, teachers, and classes.
+Implement a C++ program that demonstrates the creation of objects for the `School` and HighSchool` classes.
+Include functionality to add students, assign teachers, and display information about each school and high school.
+Object-Oriented Programming (25 marks)
+ Part A: Theory (15 marks)
+1. Discuss how object-oriented programming concepts like encapsulation, inheritance, and polymorphism can be beneficial in designing an inventory management system. (8 marks)
+
+2. Define a base class named `InventoryItem` with attributes such as item ID, name, quantity, and price. Discuss how this class can be used as a foundation for managing different types of inventory items. (7 marks)
+
+Consider the following scenario for an inventory management system for the company "Dov": (10 marks)
+
+The company deals with various types of products, including electronics, clothing, and furniture.
+Implement a C++ program that utilizes the `InventoryItem` class to manage different types of products.
+Include functionality to add new items, update quantities, display inventory, and calculate the total value of the inventory.
+
+Ensure that your practical implementation reflects the principles of object-oriented programming and showcases the benefits of using classes and objects for managing diverse inventory items within the Dov company.
+
+
+
+
+
+
+
+
