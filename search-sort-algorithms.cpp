@@ -1,3 +1,19 @@
+/*
+Linear Search – A simple search algorithm that checks each element one by one until the target element is found or the array ends.
+
+Binary Search – An efficient search algorithm that works on sorted arrays by repeatedly dividing the search interval in half.
+
+Bubble Sort – A sorting algorithm that repeatedly swaps adjacent elements if they are in the wrong order until the array is sorted.
+
+Selection Sort – A sorting algorithm that repeatedly finds the smallest element from the unsorted part and swaps it with the first unsorted element.
+
+Insertion Sort – A sorting algorithm that builds a sorted array by inserting each new element into its correct position.
+
+
+
+ */
+
+
 #include <iostream>
 using namespace std;
 
